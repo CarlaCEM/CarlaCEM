@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on full stack development.
-- 📫 How to reach me: emeier.carlac@gmail.com.
-
 <div>
    <a href="https://github.com/CarlaCEM">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CarlaCEM&show_icons=true&theme=calm_pink" />
