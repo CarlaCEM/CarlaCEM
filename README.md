@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <div>
-   <a href="https://github.com/CarlaCEM">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CarlaCEM&show_icons=true&theme=calm_pink" />
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaCEM&layout=compact&theme=calm_pink" />
 </div>
