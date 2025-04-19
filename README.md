@@ -4,8 +4,9 @@
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CarlaCEM&show_icons=true&theme=calm_pink" />
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaCEM&layout=compact&theme=calm_pink" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carla-React" height="30 width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<div style="display: inline-block"><br>
+   <p>Learning/Working</p>
+  <img align="center" alt="Carla-React" height="30 width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
   <img align="center" alt="Carla-Flutter" height="30 width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Carla-Node" height="30 width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Carla-Next.js" height="30 width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
@@ -17,10 +18,12 @@
   <img align="center" alt="Carla-TypeScript" height="30 width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Carla-Python" height="30 width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Carla-Dart" height="30 width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img align="center" alt="Carla-GO" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 </div>
 <div style="display: flex; align="center"><br>
+   <p>LinkedIn Profile</p>
   <a href="https://www.linkedin.com/in/carla-caroline-emilio-meier/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img  height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank">
   </a>
 </div>
 <picture>
